@@ -6,7 +6,7 @@ To **become** something, **break** it apart and then **build** up.
 And so to become a CS engineer, we will break all the part into tiny parts that make sense, then rebuild them together. This way we understand every component and how it fits in the whole picture.
 
 
-## Genesis
+## Genesis:
 A computer  : **Machine that is capable of computation.**
 Computation : **A set of arithmetic calculations to solve a problem on a Turing Machine.**
 Calculation : **Mathematical process that transforms one or more inputs into one or more outputs or results.**
